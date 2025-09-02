@@ -1,0 +1,17 @@
+{
+  "accentColor": "",
+  "interfaceFontFamily": "Consolas",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono NL",
+  "enabledCssSnippets": [
+    "Daily Note Themes",
+    "Notebook Backgrounds",
+    "Colored Sidebar Items",
+    "CyanVoxel's General Tweaks",
+    "Dashboard",
+    "dashboard-readinglenght"
+  ],
+  "baseFontSizeAction": true,
+  "baseFontSize": 27,
+  "cssTheme": ""
+}

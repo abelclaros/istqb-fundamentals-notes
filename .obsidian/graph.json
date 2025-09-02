@@ -1,0 +1,30 @@
+{
+  "collapse-filter": true,
+  "search": "path:\"01 - Tasks/ISTQB CTFL UDEMY\"  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"01 - Tasks/ISTQB CTFL UDEMY\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 0.548179871520343,
+  "linkDistance": 250,
+  "scale": 0.6906394964510804,
+  "close": true
+}
