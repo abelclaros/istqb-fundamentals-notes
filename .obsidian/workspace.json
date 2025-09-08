@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.2 Why is testing necessary.md",
+                "file": "3.2.3 Roles and Responsibilities in Reviews.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.2 Why is testing necessary"
+              "title": "3.2.3 Roles and Responsibilities in Reviews"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.2 Why is testing necessary.md",
+                "file": "3.1.1 Work Products Examinable by Static Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,31 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.2 Why is testing necessary"
+              "title": "Backlinks for 3.1.1 Work Products Examinable by Static Testing"
+            }
+          },
+          {
+            "id": "42628abc873d924b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEST DETAILS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TEST DETAILS"
             }
           },
           {
@@ -181,11 +205,12 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,17 +227,49 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "syncthing-integration:Open Syncthing conflict manager modal": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "a9d24daf1a3f6928",
   "lastOpenFiles": [
-    "Excalidraw/PSS SW protections.excalidraw.md",
-    "Excalidraw/OCS Superseed.md",
-    "Excalidraw/ErrorDefectFailure.excalidraw.md",
-    "Excalidraw/Drawing 2025-07-01 17.31.34.excalidraw.md",
-    "Excalidraw",
-    "1.1.2 Testing and Debugging.md",
-    "1.1.1 Testing objectives.md"
+    "3.2.2 Review Process Activities.md",
+    "3.2.1 Benefits of Early and Frequent Stakeholder Feedback.md",
+    "3.2.5 Success Factors for Reviews.md",
+    "3.2.4 Review Types.md",
+    "3.2.3 Roles and Responsibilities in Reviews.md",
+    "3.2 Feedback and Review Process.md",
+    "3.1.3 Differences between Static Testing and Dynamic Testing.md",
+    "3.1.2 Value of Static Testing.md",
+    "3.1.1 Work Products Examinable by Static Testing.md",
+    "3.1 Static Testing Basics.md",
+    "3. Static Testing.md",
+    "2.3 Maintenance Testing.md",
+    "2.2.3 Confirmation Testing and Regression Testing.md",
+    "2.2.2 Test Types.md",
+    "2.2.1 Test Levels.md",
+    "2.2 Test Levels and Test Types.md",
+    "2.1.6 Retrospectives and Process Improvement.md",
+    "2.1.5 Shift Left.md",
+    "2.1.4 DevOps and Testing.md",
+    "2.1.3 Testing as a Driver for Software Development.md",
+    "2.1.2 Software Development Lifecycle and Good Testing Practices.md",
+    "2.1.1 Impact of the Software Development Lifecycle on Testing.md",
+    "2.1 Testing in the Context  of a Software Development Lifecycle (SDLC).md",
+    "2. Testing Throughout the Software Development Lifecycle.md",
+    "1.5.3 Independence of Testing.md",
+    "1.5.2 Whole Team Approach.md",
+    "99 - Meta/Attachements/TEST DETAILS-5.png",
+    "99 - Meta/Attachements/TEST DETAILS-4.png",
+    "99 - Meta/Attachements/TEST DETAILS-3.png",
+    "99 - Meta/Attachements/TEST DETAILS-2.png",
+    "99 - Meta/Attachements/TEST DETAILS-1.png",
+    "99 - Meta/Attachements/TEST DETAILS.png",
+    "99 - Meta/Attachements",
+    "99 - Meta",
+    "New folder",
+    "Excalidraw"
   ]
 }
