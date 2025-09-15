@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.2.3 Decision Table Testing.md",
+                "file": "4.4.2 Exploratory Testing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4.2.3 Decision Table Testing"
+              "title": "4.4.2 Exploratory Testing"
             }
           }
         ]
@@ -235,12 +235,20 @@
   },
   "active": "a9d24daf1a3f6928",
   "lastOpenFiles": [
+    "4.4.1 Error Guessing.md",
+    "4.4 Experience-based Test Techniques.md",
+    "4.3.3 The Value of White-box Testing.md",
+    "4.3.2 Branch Testing and Branch Coverage.md",
+    "4.3.1 Statement Testing and Statement Coverage.md",
     "4.2.4 State Transition Testing.md",
     "4.2.3 Decision Table Testing.md",
     "4.2.2 Boundary Value Analysis.md",
     "4.2.1 Equivalence Partitioning.md",
     "4.2 Black-box Test Techniques.md",
+    "4.3 White-box Test Techniques.md",
     "4.1 Test Techniques Overview.md",
+    "3.1.1 Work Products Examinable by Static Testing.md",
+    "3.1 Static Testing Basics.md",
     "4. Test Analysis and Design.md",
     "3.2.5 Success Factors for Reviews.md",
     "3.2.4 Review Types.md",
@@ -251,16 +259,8 @@
     "3.2 Feedback and Review Process.md",
     "3.1.3 Differences between Static Testing and Dynamic Testing.md",
     "3.1.2 Value of Static Testing.md",
-    "3.1.1 Work Products Examinable by Static Testing.md",
-    "3.1 Static Testing Basics.md",
     "3. Static Testing.md",
     "2.3 Maintenance Testing.md",
-    "2.2.3 Confirmation Testing and Regression Testing.md",
-    "2.2.2 Test Types.md",
-    "2.2.1 Test Levels.md",
-    "2.2 Test Levels and Test Types.md",
-    "2.1.6 Retrospectives and Process Improvement.md",
-    "2.1.5 Shift Left.md",
     "99 - Meta/Attachements/TEST DETAILS-5.png",
     "99 - Meta/Attachements/TEST DETAILS-4.png",
     "99 - Meta/Attachements/TEST DETAILS-3.png",
