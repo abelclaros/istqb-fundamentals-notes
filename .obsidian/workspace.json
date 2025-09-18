@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.5.3 Acceptance Test-driven Development (ATDD).md",
+                "file": "5.1.7 Testing Quadrants.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4.5.3 Acceptance Test-driven Development (ATDD)"
+              "title": "5.1.7 Testing Quadrants"
             }
           }
         ]
@@ -235,6 +235,14 @@
   },
   "active": "a9d24daf1a3f6928",
   "lastOpenFiles": [
+    "5.1.6 Test Pyramid.md",
+    "5.1.5 Test Case Prioritization.md",
+    "5.1.4 Estimation Techniques.md",
+    "5.1.3 Entry Criteria and Exit Criteria.md",
+    "5.1.2 Tester's Contribution to Iteration and Release Planning.md",
+    "5.1.1 Purpose and Content of a Test Plan.md",
+    "5.1 Managing the Test Activities.md",
+    "4.5.3 Acceptance Test-driven Development (ATDD).md",
     "4.5.2 Acceptance Criteria.md",
     "4.5.1 Collaborative User Story Writing.md",
     "4.5 Collaboration-based Test Approaches.md",
@@ -253,14 +261,6 @@
     "4.3 White-box Test Techniques.md",
     "4.1 Test Techniques Overview.md",
     "3.1.1 Work Products Examinable by Static Testing.md",
-    "3.1 Static Testing Basics.md",
-    "4. Test Analysis and Design.md",
-    "3.2.5 Success Factors for Reviews.md",
-    "3.2.4 Review Types.md",
-    "3.2.3 Roles and Responsibilities in Reviews.md",
-    "3.2.2 Review Process Activities.md",
-    "Planning.md",
-    "3.2.1 Benefits of Early and Frequent Stakeholder Feedback.md",
     "99 - Meta/Attachements/TEST DETAILS-5.png",
     "99 - Meta/Attachements/TEST DETAILS-4.png",
     "99 - Meta/Attachements/TEST DETAILS-3.png",
