@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.1.7 Testing Quadrants.md",
+                "file": "5.4 Configuration Management.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5.1.7 Testing Quadrants"
+              "title": "5.4 Configuration Management"
+            }
+          },
+          {
+            "id": "5eacf9bc1a47f2b1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Quadrants.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Quadrants.excalidraw"
             }
           }
         ]
@@ -235,6 +247,19 @@
   },
   "active": "a9d24daf1a3f6928",
   "lastOpenFiles": [
+    "5.3.3 Communicating the Status of Testing.md",
+    "5.3.2 Purpose, Content and Audience for Test Reports.md",
+    "5.3.1 Metrics used in Testing.md",
+    "5.3 Test Monitoring, Test Control and Test Completion.md",
+    "5.2.3 Product Risk Analysis.md",
+    "5.5 Defect Management.md",
+    "5.4 Configuration Management.md",
+    "4.1 Test Techniques Overview.md",
+    "5.2.4 Product Risk Control.md",
+    "5.2.2 Project Risks and Product Risks.md",
+    "5.2.1 Risk Definition and Risk Attributes.md",
+    "5.2 Risk Management.md",
+    "5.1.7 Testing Quadrants.md",
     "5.1.6 Test Pyramid.md",
     "5.1.5 Test Case Prioritization.md",
     "5.1.4 Estimation Techniques.md",
@@ -242,25 +267,12 @@
     "5.1.2 Tester's Contribution to Iteration and Release Planning.md",
     "5.1.1 Purpose and Content of a Test Plan.md",
     "5.1 Managing the Test Activities.md",
+    "Excalidraw/Quadrants.excalidraw.md",
     "4.5.3 Acceptance Test-driven Development (ATDD).md",
     "4.5.2 Acceptance Criteria.md",
     "4.5.1 Collaborative User Story Writing.md",
     "4.5 Collaboration-based Test Approaches.md",
     "4.4.3 Checklist-Based Testing.md",
-    "4.4.2 Exploratory Testing.md",
-    "4.4.1 Error Guessing.md",
-    "4.4 Experience-based Test Techniques.md",
-    "4.3.3 The Value of White-box Testing.md",
-    "4.3.2 Branch Testing and Branch Coverage.md",
-    "4.3.1 Statement Testing and Statement Coverage.md",
-    "4.2.4 State Transition Testing.md",
-    "4.2.3 Decision Table Testing.md",
-    "4.2.2 Boundary Value Analysis.md",
-    "4.2.1 Equivalence Partitioning.md",
-    "4.2 Black-box Test Techniques.md",
-    "4.3 White-box Test Techniques.md",
-    "4.1 Test Techniques Overview.md",
-    "3.1.1 Work Products Examinable by Static Testing.md",
     "99 - Meta/Attachements/TEST DETAILS-5.png",
     "99 - Meta/Attachements/TEST DETAILS-4.png",
     "99 - Meta/Attachements/TEST DETAILS-3.png",
